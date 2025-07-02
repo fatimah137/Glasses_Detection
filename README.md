@@ -15,7 +15,7 @@ Aplikasi ini dibangun dalam dua tahap:
 * Klasifikasi gambar wajah: *Dengan Kacamata* / *Tanpa Kacamata*
 * Dukungan upload file gambar (JPG, PNG)
 * Tampilan responsif dan sederhana berbasis web
-* Dapat berjalan secara lokal tanpa memerlukan server eksternal (seperti XAMPP)
+* Berjalan secara lokal tanpa memerlukan server eksternal.
 
 ---
 
