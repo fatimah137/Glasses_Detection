@@ -33,4 +33,7 @@ Aplikasi ini dibangun dalam dua tahap:
 
 Proyek ini bertujuan untuk menerapkan konsep deep learning dalam pengolahan citra, khususnya untuk klasifikasi biner berbasis fitur visual (keberadaan kacamata pada wajah), serta mengintegrasikannya ke dalam aplikasi web interaktif.
 
+File Penting
+https://drive.google.com/drive/folders/1z95hAWZL9Ti-DESlSsrthoqPEP9qvQxt?usp=sharing
+
 
